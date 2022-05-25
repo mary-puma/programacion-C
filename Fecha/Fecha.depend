@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653503000 source:c:\users\fravega\desktop\proyectos\fecha\fecha.c
+	"Fecha.h"
+
+1653183829 c:\users\fravega\desktop\proyectos\fecha\fecha.h
+
+1653503628 source:c:\users\fravega\desktop\proyectos\fecha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fecha.h"
+
