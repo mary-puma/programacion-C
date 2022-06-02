@@ -25,6 +25,7 @@ int archTxtFijoToBin(char* nombreArch)
     while(fgets(linea,sizeof(linea),pftxt))
     {
         desglosamientoFijo(linea,&alumno);
+        //printf("%d %s %s %.2f\n",alumno.dni,alumno.apellido,alumno.nombre,alumno.promedio);
         fwrite(&alumno,sizeof(t_alumno),1,pfbin);
 
     }
