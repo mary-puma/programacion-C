@@ -1,0 +1,9 @@
+456|arboll aaa|analia| 7.00 
+564|jimenez bbb|maria|10.00 
+111|mena|flor aaa| 7.00 
+465|peress|analia aaa| 8.50 
+156|peress|analia| 9.00 
+445|sosa|belen| 5.50 
+5456|tatiana|lucas|10.00 
+457|zamudio|perez| 4.50 
+888|zamudio|susana| 8.00 

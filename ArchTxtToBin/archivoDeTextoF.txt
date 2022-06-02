@@ -1,0 +1,9 @@
+00000456arboll aaa                    analia                         7.00
+00000564jimenez bbb                   maria                         10.00
+00000111mena                          flor aaa                       7.00
+00000465peress                        analia aaa                     8.50
+00000156peress                        analia                         9.00
+00000445sosa                          belen                          5.50
+00005456tatiana                       lucas                         10.00
+00000457zamudio                       perez                          4.50
+00000888zamudio                       susana                         8.00
